@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "nombre": "jonatan55599",
+      "precio": 1,
+      "id": 30
+    },
+    {
+      "nombre": "9999",
+      "precio": 555,
+      "id": 31
+    },
+    {
+      "nombre": "comprar manzanas",
+      "precio": 5,
+      "id": 32
+    },
+    {
+      "nombre": "55",
+      "precio": 5,
+      "id": 33
+    },
+    {
+      "nombre": "55",
+      "precio": 55,
+      "id": 34
+    }
+  ]
+}
